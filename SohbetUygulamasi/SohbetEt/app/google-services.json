@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "273928092334",
+    "firebase_url": "https://sohbet-93821-default-rtdb.firebaseio.com",
+    "project_id": "sohbet-93821",
+    "storage_bucket": "sohbet-93821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273928092334:android:2e0f6976c469cd12234b3f",
+        "android_client_info": {
+          "package_name": "com.example.sohbetet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273928092334-qk1p4nhleic4shpdt9eksv61uimsgt7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8-P3tQtR0L4F2QW5HFbcxbtSY6eue9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273928092334-qk1p4nhleic4shpdt9eksv61uimsgt7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273928092334:android:db4e6d4eae8cd21b234b3f",
+        "android_client_info": {
+          "package_name": "com.example.sohbetuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273928092334-qk1p4nhleic4shpdt9eksv61uimsgt7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8-P3tQtR0L4F2QW5HFbcxbtSY6eue9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273928092334-qk1p4nhleic4shpdt9eksv61uimsgt7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
